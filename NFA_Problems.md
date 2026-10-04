@@ -10,8 +10,8 @@
     <th align="center"><h3>Hand-Drawn Tree Computation</h3></th>
   </tr>
   <tr>
-    <td align="center"><img src="Tests_and_Tress/NFA_Problem_8_Test.png" alt="NFA 8 Tests" width="700"></td>
-    <td align="center"><img src="Tests_and_Tress/NFA_Problem_8_Tree.png" alt="NFA 8 Tree" width="800" height="480"></td>
+    <td align="center"><img src="Tests_and_Trees/NFA_Problem_8_Test.png" alt="NFA 8 Tests" width="700"></td>
+    <td align="center"><img src="Tests_and_Trees/NFA_Problem_8_Tree.png" alt="NFA 8 Tree" width="800" height="480"></td>
   </tr>
 </table>
 
@@ -82,8 +82,8 @@
     <th align="center"><h3>Hand-Drawn Tree Computation</h3></th>
   </tr>
   <tr>
-    <td align="center"><img src="Tests_and_Tress/NFA_Problem_11_Test.jpg" alt="NFA 11 Tests" width="700"></td>
-    <td align="center"><img src="Tests_and_Tress/NFA_Problem_11_Tree.png" alt="NFA 11 Tree" width="800" height="480"></td>
+    <td align="center"><img src="Tests_and_Trees/NFA_Problem_11_Test.jpg" alt="NFA 11 Tests" width="700"></td>
+    <td align="center"><img src="Tests_and_Trees/NFA_Problem_11_Tree.png" alt="NFA 11 Tree" width="800" height="480"></td>
   </tr>
 </table>
 
@@ -149,8 +149,8 @@
     <th align="center"><h3>Hand-Drawn Tree Computation</h3></th>
   </tr>
   <tr>
-    <td align="center"><img src="Tests_and_Tress/NFA_Problem_12_Test.jpg" alt="NFA 12 Tests" width="700"></td>
-    <td align="center"><img src="Tests_and_Tress/NFA_Problem_12_Tree.png" alt="NFA 12 Tree" width="800" height="480"></td>
+    <td align="center"><img src="Tests_and_Trees/NFA_Problem_12_Test.jpg" alt="NFA 12 Tests" width="700"></td>
+    <td align="center"><img src="Tests_and_Trees/NFA_Problem_12_Tree.png" alt="NFA 12 Tree" width="800" height="480"></td>
   </tr>
 </table>
 
@@ -213,8 +213,8 @@
     <th align="center"><h3>Hand-Drawn Tree Computation</h3></th>
   </tr>
   <tr>
-    <td align="center"><img src="Tests_and_Tress/NFA_Problem_23_Test.jpg" alt="NFA 23 Tests" width="700"></td>
-    <td align="center"><img src="Tests_and_Tress/NFA_Problem_23_Tree.png" alt="NFA 23 Tree" width="800" height="480"></td>
+    <td align="center"><img src="Tests_and_Trees/NFA_Problem_23_Test.jpg" alt="NFA 23 Tests" width="700"></td>
+    <td align="center"><img src="Tests_and_Trees/NFA_Problem_23_Tree.png" alt="NFA 23 Tree" width="800" height="480"></td>
   </tr>
 </table>
 
@@ -282,8 +282,8 @@
     <th align="center"><h3>Hand-Drawn Tree Computation</h3></th>
   </tr>
   <tr>
-    <td align="center"><img src="Tests_and_Tress/NFA_Problem_24_Test.jpg" alt="NFA 24 Tests" width="700"></td>
-    <td align="center"><img src="Tests_and_Tress/NFA_Problem_24_Tree.png" alt="NFA 24 Tree" width="800" height="480"></td>
+    <td align="center"><img src="Tests_and_Trees/NFA_Problem_24_Test.jpg" alt="NFA 24 Tests" width="700"></td>
+    <td align="center"><img src="Tests_and_Trees/NFA_Problem_24_Tree.png" alt="NFA 24 Tree" width="800" height="480"></td>
   </tr>
 </table>
 

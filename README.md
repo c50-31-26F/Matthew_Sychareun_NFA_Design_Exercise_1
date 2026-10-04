@@ -1,1 +1,2 @@
-# Matthew_Sychareun_NFA_Design_Exercise_1
+# Matthew Sychareun NFA Design Exercise 1
+## Summary of my learning

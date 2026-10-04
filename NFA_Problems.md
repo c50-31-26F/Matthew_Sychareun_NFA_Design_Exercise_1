@@ -2,7 +2,7 @@
 
 ## NFA Problem 8: [ {string s| s starts with 01 and ends with 10 } ]
 
-![NFA 8 Diagram](NFA_Problem_8.jpg)
+<img src="design_images/NFA_Problem_8.jpg" alt="NFA 8 Diagram" width="500">
 
 <table>
   <tr>
@@ -10,8 +10,8 @@
     <th align="center"><h3>Hand-Drawn Tree Computation</h3></th>
   </tr>
   <tr>
-    <td align="center"><img src="NFA_Problem_8_Test.png" alt="NFA 8 Tests" width="700"></td>
-    <td align="center"><img src="NFA_Problem_8_Tree.png" alt="NFA 8 Tree" width="800" height="480"></td>
+    <td align="center"><img src="Tests_and_Tress/NFA_Problem_8_Test.png" alt="NFA 8 Tests" width="700"></td>
+    <td align="center"><img src="Tests_and_Tress/NFA_Problem_8_Tree.png" alt="NFA 8 Tree" width="800" height="480"></td>
   </tr>
 </table>
 
@@ -25,9 +25,9 @@
     <th align="center">Step 2: q1 reads <code>1</code> → branches to q2 and q3</th>
   </tr>
   <tr>
-    <td align="center"><img src="nfa8_step_start.jpg" alt="Start" width="500"></td>
-    <td align="center"><img src="nfa8_step_one.jpg" alt="Step 1" width="500"></td>
-    <td align="center"><img src="nfa8_step_two.jpg" alt="Step 2" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa8_step_start.jpg" alt="Start" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa8_step_one.jpg" alt="Step 1" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa8_step_two.jpg" alt="Step 2" width="500"></td>
   </tr>
 </table>
 
@@ -39,10 +39,10 @@
     <th align="left">Step 6: Input finished</th>
   </tr>
   <tr>
-    <td align="center"><img src="nfa8_step_three.jpg" alt="Step 3" width="500"></td>
-    <td align="center"><img src="nfa8_step_four.jpg" alt="Step 4" width="500"></td>
-    <td align="center"><img src="nfa8_step_five.jpg" alt="Step 5" width="500"></td>
-    <td align="center"><img src="nfa8_step_six.jpg" alt="Step 6" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa8_step_three.jpg" alt="Step 3" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa8_step_four.jpg" alt="Step 4" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa8_step_five.jpg" alt="Step 5" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa8_step_six.jpg" alt="Step 6" width="500"></td>
   </tr>
   <tr>
     <td valign="top">
@@ -74,7 +74,7 @@
 
 ## NFA Problem 11: [ {string s | the 2nd to last bit is 1}]
 
-![NFA 11 Diagram](NFA_Problem_11.jpg)
+<img src="design_images/NFA_Problem_11.jpg" alt="NFA 11 Diagram" width="500">
 
 <table>
   <tr>
@@ -82,8 +82,8 @@
     <th align="center"><h3>Hand-Drawn Tree Computation</h3></th>
   </tr>
   <tr>
-    <td align="center"><img src="NFA_Problem_11_Test.jpg" alt="NFA 11 Tests" width="700"></td>
-    <td align="center"><img src="NFA_Problem_11_Tree.png" alt="NFA 11 Tree" width="800" height="480"></td>
+    <td align="center"><img src="Tests_and_Tress/NFA_Problem_11_Test.jpg" alt="NFA 11 Tests" width="700"></td>
+    <td align="center"><img src="Tests_and_Tress/NFA_Problem_11_Tree.png" alt="NFA 11 Tree" width="800" height="480"></td>
   </tr>
 </table>
 
@@ -97,9 +97,9 @@
     <th align="center">Step 2: q0 reads <code>1</code> → branches to q0 and q1</th>
   </tr>
   <tr>
-    <td align="center"><img src="nfa11_start.jpg" alt="Start" width="500"></td>
-    <td align="center"><img src="nfa11_step_one.jpg" alt="Step 1" width="500"></td>
-    <td align="center"><img src="nfa11_step_two.jpg" alt="Step 2" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa11_start.jpg" alt="Start" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa11_step_one.jpg" alt="Step 1" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa11_step_two.jpg" alt="Step 2" width="500"></td>
   </tr>
 </table>
 
@@ -110,9 +110,9 @@
     <th align="left">Step 5: Input finished</th>
   </tr>
   <tr>
-    <td align="center"><img src="nfa11_step_three.jpg" alt="Step 3" width="500"></td>
-    <td align="center"><img src="nfa11_step_four.jpg" alt="Step 4" width="500"></td>
-    <td align="center"><img src="nfa11_step_five.jpg" alt="Step 5" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa11_step_three.jpg" alt="Step 3" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa11_step_four.jpg" alt="Step 4" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa11_step_five.jpg" alt="Step 5" width="500"></td>
   </tr>
   <tr>
     <td valign="top">
@@ -141,7 +141,7 @@
 
 ## NFA Problem 12: [ {string s | s contains exactly 3 1's}]
 
-![NFA 12 Diagram](NFA_Problem_12.jpg)
+<img src="design_images/NFA_Problem_12.jpg" alt="NFA 12 Diagram" width="500">
 
 <table>
   <tr>
@@ -149,8 +149,8 @@
     <th align="center"><h3>Hand-Drawn Tree Computation</h3></th>
   </tr>
   <tr>
-    <td align="center"><img src="NFA_Problem_12_Test.jpg" alt="NFA 12 Tests" width="700"></td>
-    <td align="center"><img src="NFA_Problem_12_Tree.png" alt="NFA 12 Tree" width="800" height="480"></td>
+    <td align="center"><img src="Tests_and_Tress/NFA_Problem_12_Test.jpg" alt="NFA 12 Tests" width="700"></td>
+    <td align="center"><img src="Tests_and_Tress/NFA_Problem_12_Tree.png" alt="NFA 12 Tree" width="800" height="480"></td>
   </tr>
 </table>
 
@@ -164,9 +164,9 @@
     <th align="center">Step 2: q1 reads <code>0</code> → stay in q1</th>
   </tr>
   <tr>
-    <td align="center"><img src="nfa12_start.jpg" alt="Start" width="500"></td>
-    <td align="center"><img src="nfa12_step_one.jpg" alt="Step 1" width="500"></td>
-    <td align="center"><img src="nfa12_step_two.jpg" alt="Step 2" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa12_start.jpg" alt="Start" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa12_step_one.jpg" alt="Step 1" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa12_step_two.jpg" alt="Step 2" width="500"></td>
   </tr>
 </table>
 
@@ -177,9 +177,9 @@
     <th align="left">Step 5: q2 reads <code>1</code> → move to q3</th>
   </tr>
   <tr>
-    <td align="center"><img src="nfa12_step_three.jpg" alt="Step 3" width="500"></td>
-    <td align="center"><img src="nfa12_step_four.jpg" alt="Step 4" width="500"></td>
-    <td align="center"><img src="nfa12_step_six.jpg" alt="Step 5: input finished" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa12_step_three.jpg" alt="Step 3" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa12_step_four.jpg" alt="Step 4" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa12_step_six.jpg" alt="Step 5: input finished" width="500"></td>
   </tr>
   <tr>
     <td valign="top">
@@ -205,7 +205,7 @@
 
 ## NFA Problem 23: [ {string s | s has odd length or s =01 }]
 
-![NFA 23 Diagram](NFA_Problem_23.jpg)
+<img src="design_images/NFA_Problem_23.jpg" alt="NFA 23 Diagram" width="500">
 
 <table>
   <tr>
@@ -213,8 +213,8 @@
     <th align="center"><h3>Hand-Drawn Tree Computation</h3></th>
   </tr>
   <tr>
-    <td align="center"><img src="NFA_Problem_23_Test.jpg" alt="NFA 23 Tests" width="700"></td>
-    <td align="center"><img src="NFA_Problem_23_Tree.png" alt="NFA 23 Tree" width="800" height="480"></td>
+    <td align="center"><img src="Tests_and_Tress/NFA_Problem_23_Test.jpg" alt="NFA 23 Tests" width="700"></td>
+    <td align="center"><img src="Tests_and_Tress/NFA_Problem_23_Tree.png" alt="NFA 23 Tree" width="800" height="480"></td>
   </tr>
 </table>
 
@@ -227,8 +227,8 @@
     <th align="center">Step 1: read <code>0</code></th>
   </tr>
   <tr>
-    <td align="center"><img src="nfa23_start.jpg" alt="Start" width="500"></td>
-    <td align="center"><img src="nfa23_step_one.jpg" alt="Step 1" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa23_start.jpg" alt="Start" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa23_step_one.jpg" alt="Step 1" width="500"></td>
   </tr>
   <tr>
     <td valign="top">
@@ -253,8 +253,8 @@
     <th align="center">Step 3: read <code>0</code> (input finished)</th>
   </tr>
   <tr>
-    <td align="center"><img src="nfa23_step_two.jpg" alt="Step 2" width="500"></td>
-    <td align="center"><img src="nfa23_step_three.jpg" alt="Step 3" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa23_step_two.jpg" alt="Step 2" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa23_step_three.jpg" alt="Step 3" width="500"></td>
   </tr>
   <tr>
     <td valign="top">
@@ -274,7 +274,7 @@
 
 ## NFA Problem 24: [ {string s | s has odd number of 0's or s = 001}]
 
-![NFA 24 diagram](NFA_Problem_24.jpg)
+<img src="design_images/NFA_Problem_24.jpg" alt="NFA 24 Diagram" width="500">
 
 <table>
   <tr>
@@ -282,8 +282,8 @@
     <th align="center"><h3>Hand-Drawn Tree Computation</h3></th>
   </tr>
   <tr>
-    <td align="center"><img src="NFA_Problem_24_Test.jpg" alt="NFA 24 Tests" width="700"></td>
-    <td align="center"><img src="NFA_Problem_24_Tree.png" alt="NFA 24 Tree" width="800" height="480"></td>
+    <td align="center"><img src="Tests_and_Tress/NFA_Problem_24_Test.jpg" alt="NFA 24 Tests" width="700"></td>
+    <td align="center"><img src="Tests_and_Tress/NFA_Problem_24_Tree.png" alt="NFA 24 Tree" width="800" height="480"></td>
   </tr>
 </table>
 
@@ -297,9 +297,9 @@
     <th align="center">Step 2: read <code>0</code></th>
   </tr>
   <tr>
-    <td align="center"><img src="nfa24_start.jpg" alt="Start" width="500"></td>
-    <td align="center"><img src="nfa24_step_one.jpg" alt="Step 1" width="500"></td>
-    <td align="center"><img src="nfa24_step_two.jpg" alt="Step 2" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa24_start.jpg" alt="Start" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa24_step_one.jpg" alt="Step 1" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa24_step_two.jpg" alt="Step 2" width="500"></td>
   </tr>
   <tr>
     <td valign="top">
@@ -330,8 +330,8 @@
     <th align="center">Step 4: read <code>0</code> (input finished)</th>
   </tr>
   <tr>
-    <td align="center"><img src="nfa24_step_three.jpg" alt="Step 3" width="500"></td>
-    <td align="center"><img src="nfa24_step_four.jpg" alt="Step 4" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa24_step_three.jpg" alt="Step 3" width="500"></td>
+    <td align="center"><img src="Step_Transitions/nfa24_step_four.jpg" alt="Step 4" width="500"></td>
   </tr>
   <tr>
     <td valign="top">

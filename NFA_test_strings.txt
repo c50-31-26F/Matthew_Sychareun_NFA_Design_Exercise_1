@@ -1,0 +1,104 @@
+NFA Design Problem 8 Test Strings:
+- Accepted strings:
+    010
+    0110
+    01010
+    01110
+    010110
+    0100110
+
+- Rejected strings:
+    ε
+    01
+    10
+    011
+    0100
+    0101
+    1010
+    00110
+    110
+
+NFA Design Problem 11 Test Strings:
+- Accepted strings:
+    10
+    11
+    010
+    0111
+    0110
+    00010
+
+- Rejected strings:
+    ε
+    0
+    1
+    00
+    01
+    100
+    101
+    0101
+    11001
+
+NFA Design Problem 12 Test Strings:
+- Accepted strings:
+    111
+    0111
+    1011
+    1101
+    1110
+    10101
+
+- Rejected strings:
+    ε
+    000
+    1
+    11
+    101
+    0110
+    1111
+    11011
+
+NFA Design Problem 23 Test Strings:
+- Accepted strings:
+    0
+    1
+    01
+    000
+    010
+    111
+    00100
+    0101010
+
+- Rejected strings:
+    ε
+    00
+    10
+    11
+    0000
+    0101
+    0110
+    1101
+    001101
+
+NFA Design Problem 24 Test Strings:
+- Accepted strings:
+    0
+    10
+    01
+    001
+    000
+    0010
+    0001
+    111011
+    00000
+
+- Rejected strings:
+    ε
+    1
+    11
+    00
+    0000
+    0101
+    0110
+    1001
+    0011
+    00100
